@@ -45,7 +45,7 @@
             <artifactId>tomcat7-maven-plugin</artifactId>
             <version>2.2</version>
             <configuration>
-                <url>http://localhost:28204/manager/text</url>
+                <url>http://localhost:42028/manager/text</url>
                 <server>TomcatServer</server>
                 <path>/AryaCapstone</path>
             </configuration>
